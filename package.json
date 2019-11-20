@@ -9,7 +9,10 @@
     "@emotion/styled": "10.0.17",
     "@govtechsg/decentralized-renderer-react-components": "1.1.8",
     "@hot-loader/react-dom": "16.10.2",
+    "@types/lodash": "^4.14.149",
+    "date-fns": "^2.8.0",
     "debug": "4.1.1",
+    "lodash": "^4.17.15",
     "react": "16.10.2",
     "react-dom": "16.10.2",
     "react-hot-loader": "4.12.15"
