@@ -5,8 +5,8 @@
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "dependencies": {
-    "@emotion/core": "10.0.21",
-    "@emotion/styled": "10.0.17",
+    "@emotion/core": "10.3.1",
+    "@emotion/styled": "10.3.0",
     "@govtechsg/decentralized-renderer-react-components": "1.1.8",
     "@hot-loader/react-dom": "16.10.2",
     "@types/lodash": "^4.14.149",
